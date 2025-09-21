@@ -1,16 +1,12 @@
-Haloo semua Saya Yoga, mahasiswa S1 Geofisika yang tertarik dengan ilmu kebumian
+Haloo semua Saya Yoga, mahasiswa S1 Geofisika yang tertarik dengan ilmu kebumian nihh, salam kenal semua
 
-🌱 Tentang Saya
-🎓 Sedang menempuh studi di bidang Geofisika.
-🔭 Fokus saat ini: memahami lebih dalam geofisika komputasi, pemodelan, dan analisis data.
-🌱 Sedang belajar: pemrograman Python, pemrosesan sinyal, serta penggunaan software geofisika.
-🎯 Target: bisa mengembangkan proyek yang bermanfaat di bidang kebumian, serta memperluas keterampilan di dunia pemrograman dan data science.
+Siapa Aku?? xixi (੭˃ᴗ˂)੭
+Sedang menempuh studi di bidang Geofisika. Fokus saat ini: memahami lebih dalam geofisika komputasi, pemodelan, dan analisis data. Sedang belajar: pemrograman Python, pemrosesan sinyal, serta penggunaan software geofisika.
 
-🎨 Di Luar Kuliah
-Di luar kegiatan akademik, saya suka:
-📚 Membaca (buku pengembangan diri)
+Kalau tentang hobiii, saya suka:
+📚 Membaca (buku pengembangan diri) ദ്ദി(˵•̀ ᴗ -˵)✧
 🎶 Mendengarkan musik
-🌍 Jalan-jalan dan mengeksplorasi alam
+🌍 Jalan-jalan dan mengeksplorasi alam 
 
-📫 Hubungi Saya
+Kenalann lebihh dekatt yukk!!
 💼 LinkedIn: [www.linkedin.com/in/adi-irawan-yoga-pamungkas-02280b334]
