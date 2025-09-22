@@ -1,50 +1,79 @@
-# Assignment Report – Task 1  
-## Apa yang Saya Pelajari ✨  
-Dalam tugas ini, saya belajar cara membuat **file markdown (`.md`)** di dalam repository GitHub. Saya jadi tahu bahwa markdown merupakan format penulisan sederhana yang bisa digunakan untuk membuat dokumen dengan tampilan rapi. Selain itu, saya juga memahami bahwa file markdown sangat berguna untuk membuat laporan atau dokumentasi proyek karena dapat dibaca langsung di GitHub tanpa perlu software tambahan. Dengan begitu, laporan tugas maupun catatan proyek bisa lebih terorganisir.  
+# 📝 Tugas 1 - The Basics of GitHub
 
-## Cara Membuat File Markdown 
-### 1. Masuk ke repository yang sudah ada di GitHub  
-Pada langkah pertama, saya membuka repository yang telah dibuat sebelumnya.  
-
-**Lampiran:**  
-![Screenshot Repository](path/to/foto1.png)  
+## 👋 Pendahuluan
+Pada tugas ini, saya diminta untuk membuat sebuah file Markdown di dalam repository GitHub sebagai bentuk laporan.  
+Laporan ini berisi pengalaman saya dalam mempelajari GitHub, hal-hal yang sudah saya pahami, serta bagian yang masih membingungkan.  
+Selain itu, saya juga menambahkan bukti berupa screenshot dari langkah-langkah yang saya kerjakan.
 
 ---
 
-### 2. Klik tombol **Add file** lalu pilih **Create new file**  
-Saya memilih opsi untuk menambahkan file baru agar bisa membuat dokumen markdown.  
+## 🤓 Apa yang Saya Pelajari
+Dari materi *The Basics of GitHub*, saya mempelajari hal-hal berikut:
+- **Git** adalah sistem version control terdistribusi untuk melacak perubahan kode.
+- **GitHub** adalah platform berbasis web untuk menyimpan repo Git dan berkolaborasi dengan orang lain.
+- Cara **membuat repository** baru untuk menyimpan proyek.
+- Cara melakukan **clone repository** ke komputer lokal.
+- Konsep **branch** untuk mengembangkan fitur tanpa mengganggu branch utama (*main*).
+- Alur kerja **add → commit → push** untuk menyimpan perubahan ke GitHub.
+- Cara membuat **pull request (PR)** agar perubahan bisa direview dan digabungkan ke branch utama.
 
-**Lampiran:**  
-![Screenshot Add File](path/to/foto2.png)  
-
----
-
-### 3. Beri nama file dengan akhiran `.md`  
-Contoh: `assignment1.md`.  
-
-**Lampiran:**  
-![Screenshot Naming File](path/to/foto3.png)  
+![Lampiran Foto 1 - Dashboard GitHub](images/dashboard.png)
 
 ---
 
-### 4. Tulis isi laporan menggunakan sintaks markdown  
-Saya menuliskan teks dengan heading, list, bold, italic, dan code block.  
-
-**Lampiran:**  
-![Screenshot Writing Content](path/to/foto4.png)  
-
----
-
-### 5. Tambahkan gambar atau screenshot  
-Foto dapat diunggah ke repository, lalu dipanggil dengan sintaks `![Alt Text](nama_file.png)`.  
-
-**Lampiran:**  
-![Screenshot Insert Image](path/to/foto5.png)  
+## 😕 Apa yang Masih Membingungkan
+Meskipun sudah belajar dasar-dasarnya, ada beberapa hal yang masih membingungkan bagi saya:
+1. Perbedaan penggunaan **pull**, **fetch**, dan **merge** dalam workflow sehari-hari.
+2. Praktik terbaik dalam penulisan **commit message** supaya lebih informatif.
+3. Kapan sebaiknya membuat **branch baru** dibanding langsung di branch *main*.
 
 ---
 
-### 6. Commit file markdown ke repository  
-Setelah selesai menulis, saya menyimpan file dengan klik **Commit new file**.  
+## 🛠️ Langkah-Langkah yang Dilakukan
 
-**Lampiran:**  
-![Screenshot Commit File](path/to/foto6.png) 
+### 1. Membuat Markdown File
+Saya membuat file baru bernama `Tugas1.md` di dalam repository untuk menuliskan laporan ini.  
+
+![Lampiran Foto 2 - Membuat File Markdown](images/make-md-file.png)
+
+---
+
+### 2. Membuat Profile README
+Saya membuat repository dengan nama sama seperti username GitHub saya. Lalu saya menambahkan file `README.md` berisi:
+- Perkenalan singkat tentang diri saya
+- Minat belajar saya
+- Hobi saya
+
+![Lampiran Foto 3 - Profile README](images/profile-readme.png)
+
+---
+
+### 3. Membuat Repository Baru
+Saya membuat repository baru di GitHub, lalu mencoba fitur-fitur berikut:
+- `git clone` untuk menduplikasi repo ke lokal
+- `git add` untuk menambahkan file
+- `git commit` untuk menyimpan perubahan
+- `git push` untuk mengirim perubahan ke GitHub
+- `git pull` untuk menarik update dari GitHub
+
+![Lampiran Foto 4 - Git Clone](images/git-clone.png)  
+![Lampiran Foto 5 - Git Add dan Commit](images/git-add-commit.png)  
+![Lampiran Foto 6 - Git Push](images/git-push.png)  
+![Lampiran Foto 7 - Git Pull](images/git-pull.png)  
+
+---
+
+### 4. Membuat Pull Request
+Setelah semua langkah selesai, saya membuka Pull Request (PR) agar dosen/instruktur dapat melihat dan memeriksa hasil tugas saya.
+
+![Lampiran Foto 8 - Pull Request](images/pull-request.png)
+
+---
+
+## 🚀 Kesimpulan
+Dari tugas ini saya jadi lebih memahami dasar-dasar GitHub, khususnya:
+- Cara membuat repository dan mengelolanya.
+- Alur kerja *clone → add → commit → push → pull request*.
+- Pentingnya dokumentasi dengan menggunakan Markdown.  
+
+Namun saya masih perlu memperdalam pemahaman tentang workflow lanjutan seperti *fetch vs pull*, serta praktik terbaik dalam branching dan penulisan commit.
