@@ -2,8 +2,7 @@
 
 ## 👋 Pendahuluan
 Pada tugas ini, saya diminta untuk membuat sebuah file Markdown di dalam repository GitHub sebagai bentuk laporan.  
-Laporan ini berisi pengalaman saya dalam mempelajari GitHub, hal-hal yang sudah saya pahami, serta bagian yang masih membingungkan.  
-Selain itu, saya juga menambahkan bukti berupa screenshot dari langkah-langkah yang saya kerjakan.
+Laporan ini berisi pengalaman saya dalam mempelajari GitHub, hal-hal yang sudah saya pahami, serta bagian yang masih membingungkan.  Selain itu, saya juga menambahkan bukti berupa screenshot dari langkah-langkah yang saya kerjakan.
 
 ---
 
@@ -57,16 +56,15 @@ Saya membuat repository baru di GitHub, lalu mencoba fitur-fitur berikut:
 - `git pull` untuk menarik update dari GitHub
 
 ![Lampiran Foto 4 - Git Clone](images/git-clone.png)  
-![Lampiran Foto 5 - Git Add dan Commit](images/git-add-commit.png)  
-![Lampiran Foto 6 - Git Push](images/git-push.png)  
-![Lampiran Foto 7 - Git Pull](images/git-pull.png)  
+![Lampiran Foto 5 - Git Add, Commit and Push](images/git-add-commit.png)    
+![Lampiran Foto 6 - Git Pull](images/git-pull.png)  
 
 ---
 
 ### 4. Membuat Pull Request
-Setelah semua langkah selesai, saya membuka Pull Request (PR) agar dosen/instruktur dapat melihat dan memeriksa hasil tugas saya.
+Setelah semua langkah selesai, saya membuka Pull Request (PR) agar dosen dan asisten Praktikum Metode komputasi dapat melihat dan memeriksa hasil tugas saya.
 
-![Lampiran Foto 8 - Pull Request](images/pull-request.png)
+![Lampiran Foto 7 - Pull Request](images/pull-request.png)
 
 ---
 
