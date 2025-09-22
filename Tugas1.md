@@ -72,6 +72,7 @@ Saya membuat repository baru di GitHub, lalu mencoba fitur-fitur berikut:
 ### 4. Membuat Pull Request
 Setelah semua langkah selesai, saya membuka Pull Request (PR) agar dosen dan asisten Praktikum Metode komputasi dapat melihat dan memeriksa hasil tugas saya.
 
+`Lampiran foto penggunaan git Push and Request`
 ![Lampiran Foto 7 - Pull Request](./images/Git%20Pull%20Request.png)
 
 ---
