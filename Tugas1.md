@@ -16,8 +16,8 @@ Dari materi *The Basics of GitHub*, saya mempelajari hal-hal berikut:
 - Alur kerja **add → commit → push** untuk menyimpan perubahan ke GitHub.
 - Cara membuat **pull request (PR)** agar perubahan bisa direview dan digabungkan ke branch utama.
 
-![Lampiran Foto 1 - Dashboard GitHub](images/Profil Github.png)
-
+[Lampiran Foto 1 - Dashboard GitHub]([Alt](images/Profil Github.png))
+[Lampiran Foto 2 - Dashboard GitHub]([Alt](images/Profil Github 2.png))
 ---
 
 ## 😕 Apa yang Masih Membingungkan
