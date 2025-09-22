@@ -32,7 +32,8 @@ Meskipun sudah belajar dasar-dasarnya, ada beberapa hal yang masih membingungkan
 ### 1. Membuat Markdown File
 Saya membuat file baru bernama `Tugas1.md` di dalam repository untuk menuliskan laporan ini.  
 
-![Lampiran Foto 2 - Membuat File Markdown](images/make-md-file.png)
+Menambahkan `Tugas1.md` di VSCODE
+![Tugas1 - Markdown](./images/Markdown%20Tugas1.png.png)
 
 ---
 
@@ -42,7 +43,7 @@ Saya membuat repository dengan nama sama seperti username GitHub saya. Lalu saya
 - Minat belajar saya
 - Hobi saya
 
-![Lampiran Foto 3 - Profile README](images/profile-readme.png)
+![Lampiran Foto 3 - Profile README](./images/Read%20Me.png)
 
 ---
 
@@ -54,8 +55,15 @@ Saya membuat repository baru di GitHub, lalu mencoba fitur-fitur berikut:
 - `git push` untuk mengirim perubahan ke GitHub
 - `git pull` untuk menarik update dari GitHub
 
-![Lampiran Foto 4 - Git Clone](images/git-clone.png)  
-![Lampiran Foto 5 - Git Add, Commit and Push](images/git-add-commit.png)    
+Lampiran foto penggunaan Git Clone
+![Lampiran Foto 4 - Git Clone](./images/Git%20Clone.png)
+
+Lampiran foto penggunaan git Add, git commit, dan git push
+![Lampiran Foto 4 - Git Clone](./images/Git%20add%20..png.png)
+![Lampiran Foto 5 - Git Add, Commit and Push](./images/Git%20Commit.png.png)
+![Lampiran Foto 4 - Git Clone](./images/Git%20Push.png.png)
+
+Lampiran foto penggunaan git pull
 ![Lampiran Foto 6 - Git Pull](images/git-pull.png)  
 
 ---
