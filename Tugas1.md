@@ -59,7 +59,7 @@ Lampiran foto penggunaan Git Clone
 ![Lampiran Foto 4 - Git Clone](./images/Git%20Clone.png)
 
 Lampiran foto penggunaan git Add, git commit, dan git push
-![Lampiran Foto 4 - Git add](./images/Git%20add%20.png)
+![Lampiran Foto 4 - Git add](./images/Git%20add%20..png)
 ![Lampiran Foto 5 - Git commit](./images/Git%20Commit.png)
 ![Lampiran Foto 4 - Git Push](./images/Git%20Push.png)
 
